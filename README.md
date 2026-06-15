@@ -25,28 +25,28 @@ serving users across Nigeria.
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](screenshots/Landing.png)
+![Landing Page](Screenshots/Landing.png)
 
 ### Why Komecare
-![Why Komecare](screenshots/Why.png)
+![Why Komecare](Screenshots/Why.png)
 
 ### How It Works
-![How It Works](screenshots/how-it-works.png)
+![How It Works](Screenshots/how-it-works.png)
 
 ### Services
-![Services](screenshots/services.png)
+![Services](Screenshots/services.png)
 
 ### Clinical Governance
-![Governance](screenshots/governance.png)
+![Governance](Screenshots/governance.png)
 
 ### Get Access
-![Get Access](screenshots/get-access.png)
+![Get Access](Screenshots/get-access.png)
 
 ### Platform Login
-![Login](screenshots/login.png)
+![Login](Screenshots/login.png)
 
 ### Clinical Care Model
-![Care Model](screenshots/care-model.png)
+![Care Model](Screenshots/care-model.png)
 
 ## ⚙️ Core Features
 - **Multi-role authentication** — Admin, Staff, Stakeholder, Onboardee with 
