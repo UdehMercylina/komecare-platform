@@ -20,7 +20,7 @@ serving users across Nigeria.
 ## 🌍 Live Site
 [https://komecare.ng](https://komecare.ng)
 
-> Access is invitation-only. For a demo or credentials, contact: **info@komecare.ng**
+> Access is invitation-only. For a demo or credentials, reach out via GitHub or DM me directly.
 
 ## 📸 Screenshots
 
