@@ -85,7 +85,6 @@ serving users across Nigeria.
 4. Point your local server (XAMPP/Apache) to the project root
 5. Visit `http://localhost/komecare`
 
-> Contact **info@komecare.ng** for environment credentials or a live demo
 
 ## 📄 License
 Private — All rights reserved. Kome Care NG © 2026
